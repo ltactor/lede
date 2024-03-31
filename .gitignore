@@ -3,6 +3,8 @@
 .*.swp
 /env
 /dl
+/.github/workflows/x86.yml
+/.x86config
 /.config
 /.config.old
 /bin
